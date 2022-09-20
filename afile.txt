@@ -1,7 +1,7 @@
-this is a file
+hello hello this is a file goodbye
 with 2 lines
 of text
 
 hello
-hello
+goodbye goodbye hello
 hello
