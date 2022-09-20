@@ -3,5 +3,7 @@ with 2 lines
 of text
 
 hello
+some more changes 
+hello
 goodbye goodbye hello
 hello
