@@ -3,7 +3,7 @@ with 2 lines
 of text
 
 hello
-some more changes 
+some more changes to make a conflict here
 hello
 goodbye goodbye hello
 hello
